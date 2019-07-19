@@ -1,5 +1,5 @@
 # node-for-jest
-Projeto com node e TDD com jest
+Projeto nodeJs e TDD com jest, feito na intenção de testar as rotas com express.
 
 ## Comandos
 
