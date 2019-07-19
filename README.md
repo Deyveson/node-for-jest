@@ -1,12 +1,8 @@
 # node-for-jest
 Projeto com node e TDD com jest
 
+## Comandos
 
-**npm install**
-Instalar as dependencias 
-
-**npm run dev**
-Subir a aplicação 
-
-**npm run test**
-Para rodar os testes
+1. Install `npm install`
+2. Run App `npm run dev`
+3. Run test `npm run test`
