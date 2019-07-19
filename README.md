@@ -2,11 +2,11 @@
 Projeto com node e TDD com jest
 
 
-npm install
+**npm install**
 Instalar as dependencias 
 
-npm run dev
+**npm run dev**
 Subir a aplicação 
 
-npm run test 
+**npm run test**
 Para rodar os testes
